@@ -1,11 +1,11 @@
 # VPN Configuration for Fgjii
-# Created: 2025-09-18 05:52:05
+# Created: 2025-09-18T05:52:06.520587
 # Data Limit: 100 GB
 # Expire: 15 days
-# Last Updated: 2025-09-18 05:52:05
+# Last Updated: 2025-09-18 05:52:13
 
 # Subscription URL (Import this to your VPN client):
-https://mer.hdiwodu.space:2053/sub/sub/RmdqaWksMTc1ODE3NDcyNQ_iQSnA1S9g
+https://mer.hdiwodu.space:2053/sub/sub/RmdqaWksMTc1ODE3NDczNAohIAJua7g4
 
 # Manual Configuration:
 # Username: Fgjii
@@ -16,11 +16,5 @@ https://mer.hdiwodu.space:2053/sub/sub/RmdqaWksMTc1ODE3NDcyNQ_iQSnA1S9g
 # Usage Instructions:
 # 1. Copy the subscription URL above
 # 2. Open your VPN client (V2rayN, Clash, etc.)
-# 3. Add subscription/import from URL
-# 4. Paste the URL and import
-
-# Supported VPN Clients:
-# - V2rayN/V2rayNG
-# - Clash/ClashX
-# - Shadowrocket
-# - Hiddify/NekoBox
+# 3. Update/re-import the subscription
+# 4. Your configs will be automatically updated
